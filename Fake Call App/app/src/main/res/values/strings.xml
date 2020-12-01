@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fake Call App</string>
+    <string name="enter_the_phone_number">Enter Phone number</string>
+    <string name="call">call</string>
+</resources>
