@@ -16,10 +16,10 @@
 
 ### Layout
 
-![.xml file](Images/ss1_call_xml.jpg)
+![.xml file](Images/ss1_call_xml.JPG)
 
 ### Main Activity
 
-![.java file](Images/ss1_call_java.jpg)
+![.java file](Images/ss1_call_java.JPG)
 
 ## Thank You!!
