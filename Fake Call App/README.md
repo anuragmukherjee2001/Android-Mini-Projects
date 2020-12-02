@@ -4,11 +4,11 @@
 
 ### Layout of the application
 
-![Layout](Images/fake_call_app.jpg)
+![Working](Images/fake_call_app.jpg){:height="700px" width="400px"}
 
 ### Entering a number in the EditText
 
-![Working](Images/fake_call_app_2.jpg)
+![Working](Images/fake_call_app_2.jpg){:height="700px" width="400px"}
 
 ### Calling the dialled number
 
@@ -20,6 +20,6 @@
 
 ### Main Activity
 
-![.java file](Images/ss1_call_java.JPG)
+![.java file](Images/ss_call_java.JPG)
 
 ## Thank You!!
